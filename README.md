@@ -2,7 +2,7 @@
 ## استفاده از هوش مصنوعی و GitHub Hosting
 <br>
 
-+ [مسئله های نمونه](examples.md)
++ [مسئله های نمونه](examples/ex.md)
 <br>
 
 + [نمونه درخواست از هوش مصنوعی](prompts.md)
